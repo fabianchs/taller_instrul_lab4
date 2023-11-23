@@ -59,7 +59,9 @@ El experimento 3 es el que dio mejores resultados a nivel de modelado con un err
 Algunas razones por las cuales los experimentos 1 y 2 no se aproximaron correctamente puede ser ocasionado por:
 
 1.Lecturas incorrectas del circuito de medición
+
 2.Valores muy desviados de las temperaturas reales obtenidas
+
 3.Cambios en las condiciones atmosféricas durante la realización del experimento
 
 ## Divulgación
