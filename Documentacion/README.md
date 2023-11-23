@@ -11,6 +11,11 @@
 ## Medición de desempeño
 Para esta etapa se usó un lcd con el cual se podía visualizar en tiempo real los cambios de temperatura, sin embargo, para aumentar la velocidad de transferencia de información se opto por enviar datos “Crudos” al pc y que este se encargara de procesarlos para traducirlos a valores de temperatura legibles con una tasa de 5000 datos por segundo, pero para facilitar los experimentos se uso una tasa de 2 datos por segundo, ya que, cada experimento duraba aproximadamente una hora y treinta minutos.
 
+A continuación se muestra el funcionamiento del microcontrolador para la obtención de las muestras:
+
+https://github.com/fabianchs/taller_instrul_lab4/assets/26722437/8771d909-b42b-4dd2-86eb-f3f0b540bdc9
+
+
 ## Análisis de datos
 Se realizó un código en python para analizar los datos obtenidos, los pasos que sigue el código se explican a continuación.
 
