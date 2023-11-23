@@ -63,4 +63,6 @@ Algunas razones por las cuales los experimentos 1 y 2 no se aproximaron correcta
 3.Cambios en las condiciones atmosféricas durante la realización del experimento
 
 ## Divulgación
+En el siguiente enlace se encuentra una breve descripción del proyecto en general.
+
 https://www.hackster.io/fabian-chacon/obtencion-de-modelo-de-enfriamiento-a-partir-de-experimento-d6a51e
